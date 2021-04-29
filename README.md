@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hi there, I am Ajay.👋
 
-<!--
-**theCuriousHAT/theCuriousHAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+- 🔭 I’m currently working on NLP related projects mostly inclined towards the medical domain.
+- 🌱 I’m currently learning to build MVPs with a no-code platform.
+- 💬 Ask me on how to create websites and apps without writing a single line of code.
+- 📫 Learn more about me and my work on:
+- :bulb: [Medium articles](https://medium.com/@ajaysinghrawat.95) 
+- :office: [LinkedIn](https://www.linkedin.com/in/asr7/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
